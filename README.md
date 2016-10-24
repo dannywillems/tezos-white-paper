@@ -20,3 +20,6 @@ make clean # clean all generated files excepted the PDF.
 make fclean # clean all generated files included the PDF.
 ```
 
+## Requirements.
+
+* xelatex
